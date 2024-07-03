@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BstK22CNT3Lession10DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BstAccount">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="BstUerName" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="BstPassword" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="BstFullName" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="BstEmail" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="BstPhone" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="BstActive" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="BstK22CNT3Lession10DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BstAccounts" EntityType="Self.BstAccount" />
+  </EntityContainer>
+</Schema>

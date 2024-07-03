@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Baitap10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\controllers\\bstaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\controllers\\bstaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\bstaccounts\\bstlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\bstaccounts\\bstlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\bstaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\bstaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\controllers\\bsthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\controllers\\bsthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\shared\\_bstlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\shared\\_bstlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\bsthome\\bstindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\bsthome\\bstindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\models\\bstaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\models\\bstaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\models\\bstmodel2210900075.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\models\\bstmodel2210900075.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|c:\\users\\pc\\source\\repos\\baitap10\\baitap10\\views\\bsthome\\bstabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D051AED-68BD-4535-8F23-D2DDDA692822}|Baitap10\\Baitap10.csproj|solutionrelative:baitap10\\views\\bsthome\\bstabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bstlogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstAccounts\\Bstlogin.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\BstAccounts\\Bstlogin.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstAccounts\\Bstlogin.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\BstAccounts\\Bstlogin.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T03:13:12.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BstAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Controllers\\BstAccountsController.cs",
+              "RelativeDocumentMoniker": "Baitap10\\Controllers\\BstAccountsController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Controllers\\BstAccountsController.cs",
+              "RelativeToolTip": "Baitap10\\Controllers\\BstAccountsController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowIEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:11:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstAccounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\BstAccounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstAccounts\\Create.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\BstAccounts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T03:13:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BstHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Controllers\\BstHomeController.cs",
+              "RelativeDocumentMoniker": "Baitap10\\Controllers\\BstHomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Controllers\\BstHomeController.cs",
+              "RelativeToolTip": "Baitap10\\Controllers\\BstHomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:19:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_BstLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\Shared\\_BstLayout.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\Shared\\_BstLayout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\Shared\\_BstLayout.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\Shared\\_BstLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:43:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Baitap10\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Baitap10\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:07:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BstIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstHome\\BstIndex.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\BstHome\\BstIndex.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstHome\\BstIndex.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\BstHome\\BstIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:20:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:17:15.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BstAccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Models\\BstAccount.cs",
+              "RelativeDocumentMoniker": "Baitap10\\Models\\BstAccount.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Models\\BstAccount.cs",
+              "RelativeToolTip": "Baitap10\\Models\\BstAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:03:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BstModel2210900075.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Models\\BstModel2210900075.edmx",
+              "RelativeDocumentMoniker": "Baitap10\\Models\\BstModel2210900075.edmx",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Models\\BstModel2210900075.edmx [Diagram1]",
+              "RelativeToolTip": "Baitap10\\Models\\BstModel2210900075.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-03T03:03:17.35Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Baitap10\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Baitap10\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:35:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Baitap10\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Baitap10\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:35:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BstAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstHome\\BstAbout.cshtml",
+              "RelativeDocumentMoniker": "Baitap10\\Views\\BstHome\\BstAbout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Baitap10\\Baitap10\\Views\\BstHome\\BstAbout.cshtml",
+              "RelativeToolTip": "Baitap10\\Views\\BstHome\\BstAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:20:26.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

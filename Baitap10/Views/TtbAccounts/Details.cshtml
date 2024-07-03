@@ -1,0 +1,67 @@
+﻿@model Baitap10.Models.BstAccount
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_BstLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BstAccount</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BstUerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstUerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstActive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

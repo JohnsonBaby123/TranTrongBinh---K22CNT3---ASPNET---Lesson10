@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BstK22CNT3Lession10DbModelStoreContainer" CdmEntityContainer="BstK22CNT3Lession10DbEntities">
+    <EntitySetMapping Name="BstAccounts">
+      <EntityTypeMapping TypeName="BstK22CNT3Lession10DbModel.BstAccount">
+        <MappingFragment StoreEntitySet="BstAccount">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BstUerName" ColumnName="BstUerName" />
+          <ScalarProperty Name="BstPassword" ColumnName="BstPassword" />
+          <ScalarProperty Name="BstFullName" ColumnName="BstFullName" />
+          <ScalarProperty Name="BstEmail" ColumnName="BstEmail" />
+          <ScalarProperty Name="BstPhone" ColumnName="BstPhone" />
+          <ScalarProperty Name="BstActive" ColumnName="BstActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

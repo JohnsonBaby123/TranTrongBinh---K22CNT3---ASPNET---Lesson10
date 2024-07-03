@@ -1,0 +1,73 @@
+﻿@model Baitap10.Models.BstAccount
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_BstLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>BstAccount</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BstUerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstUerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BstActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BstActive)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
